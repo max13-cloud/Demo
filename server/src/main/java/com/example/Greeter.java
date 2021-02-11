@@ -16,4 +16,8 @@ public class Greeter {
   public String greet(String someone) {
     return String.format("Hello How are you my friend V2, %s!", someone);
   }
+  
+  public void devbranch(){
+	  
+  }
 }
